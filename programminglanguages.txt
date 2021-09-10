@@ -7,3 +7,5 @@ These are the all time best programming languages you can use.
 5. C#
 6. C++
 7. Python
+8. BASIC
+9. Lua
